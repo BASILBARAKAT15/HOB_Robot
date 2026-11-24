@@ -1,0 +1,1428 @@
+{
+  "2010": {
+    "door": [
+      69600.37405677178,
+      347264.5559344726
+    ],
+    "stop": [
+      69646.49918539837,
+      346365.7386713378
+    ],
+    "anchor": [
+      67000.0,
+      346000.0
+    ],
+    "source": "DXF DOOR_100 handle 45A1; automatically matched; simulation only"
+  },
+  "2020": {
+    "door": [
+      67455.3733004893,
+      347264.6022632184
+    ],
+    "stop": [
+      67409.25138575233,
+      346365.78483516024
+    ],
+    "anchor": [
+      67000.0,
+      346000.0
+    ],
+    "source": "DXF DOOR_100 handle 456C; automatically matched; simulation only"
+  },
+  "2030": {
+    "door": [
+      60593.65538953019,
+      348776.4629297139
+    ],
+    "stop": [
+      60541.99962986074,
+      347877.9465511804
+    ],
+    "anchor": [
+      60541.99962986074,
+      346000.0
+    ],
+    "source": "DXF DOOR_90 handle 45A7; automatically matched; simulation only"
+  },
+  "2040": {
+    "door": [
+      48451.285441931104,
+      348762.488731334
+    ],
+    "stop": [
+      48502.94120160056,
+      347863.9723528005
+    ],
+    "anchor": [
+      48502.94120160056,
+      346000.0
+    ],
+    "source": "DXF DOOR_90 handle 47F7; automatically matched; simulation only"
+  },
+  "2050": {
+    "door": [
+      41598.729707893624,
+      347346.4740260325
+    ],
+    "stop": [
+      41644.851622630595,
+      346447.65659797436
+    ],
+    "anchor": [
+      42000.0,
+      346000.0
+    ],
+    "source": "DXF DOOR_100 handle 4707; automatically matched; simulation only"
+  },
+  "2060": {
+    "door": [
+      39452.086084301845,
+      347351.0075820093
+    ],
+    "stop": [
+      39405.96416956476,
+      346452.1901539512
+    ],
+    "anchor": [
+      42000.0,
+      346000.0
+    ],
+    "source": "DXF DOOR_100 handle 46EC; automatically matched; simulation only"
+  },
+  "2080": {
+    "door": [
+      29851.478210766654,
+      348083.01367945434
+    ],
+    "stop": [
+      28951.478425908612,
+      348083.63597799814
+    ],
+    "anchor": [
+      28000.0,
+      348083.63597799814
+    ],
+    "source": "DXF DOOR_80 handle 478E; automatically matched; simulation only"
+  },
+  "2090": {
+    "door": [
+      29852.345989911388,
+      354652.5756342093
+    ],
+    "stop": [
+      28952.34628196023,
+      354651.85059088084
+    ],
+    "anchor": [
+      28000.0,
+      354651.85059088084
+    ],
+    "source": "DXF DOOR_80 handle 46D4; automatically matched; simulation only"
+  },
+  "2100": {
+    "door": [
+      27178.100884539916,
+      358676.8153696547
+    ],
+    "stop": [
+      27177.3793079402,
+      357776.81565891736
+    ],
+    "anchor": [
+      27177.3793079402,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 468D; automatically matched; simulation only"
+  },
+  "2110": {
+    "door": [
+      23564.791527520385,
+      358672.8337728301
+    ],
+    "stop": [
+      23564.069950920668,
+      357772.83406209276
+    ],
+    "anchor": [
+      23564.069950920668,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 496E; automatically matched; simulation only"
+  },
+  "2120": {
+    "door": [
+      22266.548720231513,
+      358673.874641643
+    ],
+    "stop": [
+      22265.827143631665,
+      357773.8749309057
+    ],
+    "anchor": [
+      22265.827143631665,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 4807; automatically matched; simulation only"
+  },
+  "2130": {
+    "door": [
+      16687.920996025085,
+      358672.8205282453
+    ],
+    "stop": [
+      16687.199419425368,
+      357772.820817508
+    ],
+    "anchor": [
+      16687.199419425368,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 4800; automatically matched; simulation only"
+  },
+  "2140": {
+    "door": [
+      15389.678188736143,
+      358673.86139705835
+    ],
+    "stop": [
+      15388.956612136293,
+      357773.86168632103
+    ],
+    "anchor": [
+      15388.956612136293,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 4832; automatically matched; simulation only"
+  },
+  "2150": {
+    "door": [
+      9882.924822494631,
+      358672.8074220879
+    ],
+    "stop": [
+      9882.203245894912,
+      357772.80771135056
+    ],
+    "anchor": [
+      9882.203245894912,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 4824; automatically matched; simulation only"
+  },
+  "2160": {
+    "door": [
+      8584.682015205692,
+      358673.8482909008
+    ],
+    "stop": [
+      8583.960438605842,
+      357773.8485801635
+    ],
+    "anchor": [
+      8583.960438605842,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 4823; automatically matched; simulation only"
+  },
+  "2170": {
+    "door": [
+      6277.410486959416,
+      358678.50338096987
+    ],
+    "stop": [
+      6276.688910359567,
+      357778.50367023255
+    ],
+    "anchor": [
+      6700.0,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 4882; automatically matched; simulation only"
+  },
+  "2180": {
+    "door": [
+      5565.440211740319,
+      355468.33142066305
+    ],
+    "stop": [
+      6465.440068167588,
+      355467.8230596744
+    ],
+    "anchor": [
+      6700.0,
+      355467.8230596744
+    ],
+    "source": "DXF DOOR_80 handle 4878; automatically matched; simulation only"
+  },
+  "2190": {
+    "door": [
+      5561.290505039355,
+      354170.7451309917
+    ],
+    "stop": [
+      6461.275203926001,
+      354165.4971056572
+    ],
+    "anchor": [
+      6700.0,
+      354165.4971056572
+    ],
+    "source": "DXF DOOR_80 handle 489C; automatically matched; simulation only"
+  },
+  "2200": {
+    "door": [
+      5541.224055810675,
+      346951.65852104884
+    ],
+    "stop": [
+      6441.209972735103,
+      346946.6237084708
+    ],
+    "anchor": [
+      6700.0,
+      346946.6237084708
+    ],
+    "source": "DXF DOOR_80 handle 4918; automatically matched; simulation only"
+  },
+  "2210": {
+    "door": [
+      5533.961376570211,
+      345653.43561123096
+    ],
+    "stop": [
+      6433.947293494638,
+      345648.4007986528
+    ],
+    "anchor": [
+      6700.0,
+      345648.4007986528
+    ],
+    "source": "DXF DOOR_80 handle 4915; automatically matched; simulation only"
+  },
+  "2220": {
+    "door": [
+      5520.596679538636,
+      341400.1013795285
+    ],
+    "stop": [
+      6420.582596463063,
+      341395.06656695035
+    ],
+    "anchor": [
+      6700.0,
+      341395.06656695035
+    ],
+    "source": "DXF DOOR_80 handle 4921; automatically matched; simulation only"
+  },
+  "2230": {
+    "door": [
+      13684.359073564574,
+      335178.37272555125
+    ],
+    "stop": [
+      13730.439627906384,
+      336077.1922750224
+    ],
+    "anchor": [
+      13730.439627906382,
+      337000.0
+    ],
+    "source": "DXF DOOR_100 handle 4DBC; automatically matched; simulation only"
+  },
+  "2240": {
+    "door": [
+      21473.88164261182,
+      335178.36569437914
+    ],
+    "stop": [
+      21427.80108827013,
+      336077.18524385034
+    ],
+    "anchor": [
+      21427.80108827013,
+      337000.0
+    ],
+    "source": "DXF DOOR_100 handle 4DB0; automatically matched; simulation only"
+  },
+  "2250": {
+    "door": [
+      29490.41530104711,
+      335178.32259489293
+    ],
+    "stop": [
+      29444.33474670542,
+      336077.14214436413
+    ],
+    "anchor": [
+      29444.33474670542,
+      337000.0
+    ],
+    "source": "DXF DOOR_100 handle 4CA0; automatically matched; simulation only"
+  },
+  "2260": {
+    "door": [
+      23356.429547553875,
+      356568.0801391576
+    ],
+    "stop": [
+      23357.154590818347,
+      357468.0798471088
+    ],
+    "anchor": [
+      23357.154590818347,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 496D; automatically matched; simulation only"
+  },
+  "2280": {
+    "door": [
+      15699.287576180144,
+      356518.0801391577
+    ],
+    "stop": [
+      15698.562532915672,
+      357418.0798471089
+    ],
+    "anchor": [
+      15698.562532915672,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 4833; automatically matched; simulation only"
+  },
+  "2290": {
+    "door": [
+      7868.410504685611,
+      355802.8437209986
+    ],
+    "stop": [
+      6968.41079394837,
+      355803.5652976626
+    ],
+    "anchor": [
+      6700.0,
+      355803.5652976626
+    ],
+    "source": "DXF DOOR_80 handle 48A6; automatically matched; simulation only"
+  },
+  "2300": {
+    "door": [
+      7870.54774929938,
+      348869.3692166754
+    ],
+    "stop": [
+      6970.548041348272,
+      348868.64417328266
+    ],
+    "anchor": [
+      6700.0,
+      348868.64417328266
+    ],
+    "source": "DXF DOOR_80 handle 4959; automatically matched; simulation only"
+  },
+  "2310": {
+    "door": [
+      9175.0,
+      344940.8032085998
+    ],
+    "stop": [
+      8275.0,
+      344940.8032085998
+    ],
+    "anchor": [
+      6700.0,
+      344940.8032085998
+    ],
+    "source": "DXF paired wall opening (1, 9250, 9100, 344441, 345441); automatically matched; simulation only"
+  },
+  "2320": {
+    "door": [
+      7857.267780133274,
+      341012.2281457322
+    ],
+    "stop": [
+      6957.268069396033,
+      341012.94972239615
+    ],
+    "anchor": [
+      6700.0,
+      341012.94972239615
+    ],
+    "source": "DXF DOOR_80 handle 4949; automatically matched; simulation only"
+  },
+  "2360": {
+    "door": [
+      40020.876589120984,
+      326659.8833439429
+    ],
+    "stop": [
+      40020.88451632715,
+      325759.88334397785
+    ],
+    "anchor": [
+      40020.88451632715,
+      325800.0
+    ],
+    "source": "DXF DOOR_80 handle 4C25; automatically matched; simulation only"
+  },
+  "2370": {
+    "door": [
+      37273.97007705074,
+      325143.49269194866
+    ],
+    "stop": [
+      37273.96834368569,
+      326043.492691947
+    ],
+    "anchor": [
+      37273.96834368569,
+      325800.0
+    ],
+    "source": "DXF DOOR_80 handle 4D9E; automatically matched; simulation only"
+  },
+  "2380": {
+    "door": [
+      38572.303410381784,
+      325143.49519248813
+    ],
+    "stop": [
+      38572.30167701693,
+      326043.49519248644
+    ],
+    "anchor": [
+      38572.30167701693,
+      325800.0
+    ],
+    "source": "DXF DOOR_80 handle 4D9F; automatically matched; simulation only"
+  },
+  "2390": {
+    "door": [
+      42463.96484130867,
+      325143.5026876766
+    ],
+    "stop": [
+      42463.963107943615,
+      326043.5026876749
+    ],
+    "anchor": [
+      42463.963107943615,
+      325800.0
+    ],
+    "source": "DXF DOOR_80 handle 4DA5; automatically matched; simulation only"
+  },
+  "2400": {
+    "door": [
+      43762.29817463963,
+      325143.50518821605
+    ],
+    "stop": [
+      43762.296441274775,
+      326043.50518821436
+    ],
+    "anchor": [
+      43762.29644127477,
+      325800.0
+    ],
+    "source": "DXF DOOR_80 handle 4DA6; automatically matched; simulation only"
+  },
+  "2410": {
+    "door": [
+      50728.75206836132,
+      325143.51876211463
+    ],
+    "stop": [
+      50728.75033499633,
+      326043.51876211294
+    ],
+    "anchor": [
+      50728.75033499634,
+      325800.0
+    ],
+    "source": "DXF DOOR_80 handle 4DA0; automatically matched; simulation only"
+  },
+  "2420": {
+    "door": [
+      53878.74857786822,
+      325143.5246721053
+    ],
+    "stop": [
+      53878.74684450323,
+      326043.52467210364
+    ],
+    "anchor": [
+      53878.74684450323,
+      325800.0
+    ],
+    "source": "DXF DOOR_80 handle 4E80; automatically matched; simulation only"
+  },
+  "2430": {
+    "door": [
+      55177.08191119918,
+      325143.52717264474
+    ],
+    "stop": [
+      55177.08017783432,
+      326043.52717264305
+    ],
+    "anchor": [
+      55177.08017783432,
+      325800.0
+    ],
+    "source": "DXF DOOR_80 handle 4BB4; automatically matched; simulation only"
+  },
+  "2440": {
+    "door": [
+      58326.54420836012,
+      325144.5191650852
+    ],
+    "stop": [
+      58326.542474995265,
+      326044.51916508353
+    ],
+    "anchor": [
+      58326.542474995265,
+      325800.0
+    ],
+    "source": "DXF DOOR_80 handle 4BB7; automatically matched; simulation only"
+  },
+  "2450": {
+    "door": [
+      65293.53615279191,
+      325143.5466565418
+    ],
+    "stop": [
+      65293.53441942692,
+      326043.54665654013
+    ],
+    "anchor": [
+      65293.53441942692,
+      325800.0
+    ],
+    "source": "DXF DOOR_80 handle 4BBC; automatically matched; simulation only"
+  },
+  "2460": {
+    "door": [
+      66591.86948612289,
+      325143.5491570811
+    ],
+    "stop": [
+      66591.86775275803,
+      326043.5491570794
+    ],
+    "anchor": [
+      66591.86775275803,
+      325800.0
+    ],
+    "source": "DXF DOOR_80 handle 4BB9; automatically matched; simulation only"
+  },
+  "2470": {
+    "door": [
+      70483.53091704982,
+      325143.55665226944
+    ],
+    "stop": [
+      70483.52918368483,
+      326043.55665226775
+    ],
+    "anchor": [
+      70483.52918368483,
+      325800.0
+    ],
+    "source": "DXF DOOR_80 handle 4BC1; automatically matched; simulation only"
+  },
+  "2480": {
+    "door": [
+      71781.86425038081,
+      325143.55915280886
+    ],
+    "stop": [
+      71781.86251701595,
+      326043.55915280717
+    ],
+    "anchor": [
+      71781.86251701595,
+      325800.0
+    ],
+    "source": "DXF DOOR_80 handle 4BB8; automatically matched; simulation only"
+  },
+  "2490": {
+    "door": [
+      69008.30735134124,
+      326652.87721663446
+    ],
+    "stop": [
+      69008.24362303173,
+      325752.87721889076
+    ],
+    "anchor": [
+      69008.24362303173,
+      325800.0
+    ],
+    "source": "DXF DOOR_80 handle 4B4A; automatically matched; simulation only"
+  },
+  "2510": {
+    "door": [
+      46877.91191580281,
+      327875.0
+    ],
+    "stop": [
+      46877.91191580281,
+      326975.0
+    ],
+    "anchor": [
+      46877.91191580281,
+      325800.0
+    ],
+    "source": "DXF paired wall opening (0, 327800, 327950, 46478, 47278); automatically matched; simulation only"
+  },
+  "2520": {
+    "door": [
+      51559.637515972005,
+      327908.215517701
+    ],
+    "stop": [
+      51559.64544317804,
+      327008.2155177359
+    ],
+    "anchor": [
+      51559.64544317804,
+      325800.0
+    ],
+    "source": "DXF DOOR_80 handle 4C0E; automatically matched; simulation only"
+  },
+  "2530": {
+    "door": [
+      52857.97084925501,
+      327908.2269534295
+    ],
+    "stop": [
+      52857.97877646098,
+      327008.22695346444
+    ],
+    "anchor": [
+      52857.97877646098,
+      325800.0
+    ],
+    "source": "DXF DOOR_80 handle 4C0D; automatically matched; simulation only"
+  },
+  "2540": {
+    "door": [
+      56197.85282875111,
+      327908.2333859121
+    ],
+    "stop": [
+      56197.84836827498,
+      327008.23338592314
+    ],
+    "anchor": [
+      56197.84836827498,
+      325800.0
+    ],
+    "source": "DXF DOOR_80 handle 4B21; automatically matched; simulation only"
+  },
+  "2550": {
+    "door": [
+      57496.18616206845,
+      327908.22695126233
+    ],
+    "stop": [
+      57496.18170159232,
+      327008.2269512734
+    ],
+    "anchor": [
+      57496.18170159232,
+      325800.0
+    ],
+    "source": "DXF DOOR_80 handle 4B2C; automatically matched; simulation only"
+  },
+  "2560": {
+    "door": [
+      62177.07771502058,
+      327908.2449016663
+    ],
+    "stop": [
+      62177.085642226615,
+      327008.2449017012
+    ],
+    "anchor": [
+      62177.085642226615,
+      325800.0
+    ],
+    "source": "DXF DOOR_80 handle 4B3C; automatically matched; simulation only"
+  },
+  "2590": {
+    "door": [
+      79429.32913725119,
+      335052.50763188815
+    ],
+    "stop": [
+      79383.25031400094,
+      335951.327270107
+    ],
+    "anchor": [
+      79383.25031400094,
+      337000.0
+    ],
+    "source": "DXF DOOR_100 handle 2F5D6; automatically matched; simulation only"
+  },
+  "2600": {
+    "door": [
+      89167.00088566527,
+      335100.0
+    ],
+    "stop": [
+      89167.00088566527,
+      336000.0
+    ],
+    "anchor": [
+      89167.00088566527,
+      337000.0
+    ],
+    "source": "DXF paired wall opening (0, 335150, 335050, 88542, 89842); automatically matched; simulation only"
+  },
+  "2610": {
+    "door": [
+      95476.28630831774,
+      335019.20606940985
+    ],
+    "stop": [
+      95522.36513156799,
+      335918.0257076287
+    ],
+    "anchor": [
+      95522.36513156799,
+      337000.0
+    ],
+    "source": "DXF DOOR_100 handle 2F55C; automatically matched; simulation only"
+  },
+  "2620": {
+    "door": [
+      103482.8951604831,
+      340271.92746317363
+    ],
+    "stop": [
+      102582.9092532572,
+      340266.8909172577
+    ],
+    "anchor": [
+      102500.0,
+      340266.8909172577
+    ],
+    "source": "DXF DOOR_80 handle 2F674; automatically matched; simulation only"
+  },
+  "2630": {
+    "door": [
+      103482.88937565438,
+      344163.47113563446
+    ],
+    "stop": [
+      102582.90346842849,
+      344158.4345897185
+    ],
+    "anchor": [
+      102500.0,
+      344158.4345897185
+    ],
+    "source": "DXF DOOR_80 handle 2F4E0; automatically matched; simulation only"
+  },
+  "2640": {
+    "door": [
+      103482.8893756544,
+      345462.25473233475
+    ],
+    "stop": [
+      102582.9034684285,
+      345467.29127825075
+    ],
+    "anchor": [
+      102500.0,
+      345467.29127825075
+    ],
+    "source": "DXF DOOR_80 handle 2F6DD; automatically matched; simulation only"
+  },
+  "2650": {
+    "door": [
+      103428.78457888974,
+      352036.8233321345
+    ],
+    "stop": [
+      102528.78472344323,
+      352037.33342648775
+    ],
+    "anchor": [
+      102500.0,
+      352037.33342648775
+    ],
+    "source": "DXF DOOR_80 handle 2F602; automatically matched; simulation only"
+  },
+  "2660": {
+    "door": [
+      103428.78457888972,
+      353135.15655330534
+    ],
+    "stop": [
+      102528.78472344321,
+      353134.64645895205
+    ],
+    "anchor": [
+      102500.0,
+      353134.64645895205
+    ],
+    "source": "DXF DOOR_80 handle 2F4B7; automatically matched; simulation only"
+  },
+  "2670": {
+    "door": [
+      103428.78509324751,
+      356888.283545987
+    ],
+    "stop": [
+      102528.785237801,
+      356887.7734516337
+    ],
+    "anchor": [
+      102500.0,
+      356887.7734516337
+    ],
+    "source": "DXF DOOR_80 handle 2F6E0; automatically matched; simulation only"
+  },
+  "2690": {
+    "door": [
+      100612.59083317258,
+      358742.232080377
+    ],
+    "stop": [
+      100613.31414313683,
+      357842.23237103113
+    ],
+    "anchor": [
+      100613.31414313683,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 2F5A7; automatically matched; simulation only"
+  },
+  "2700": {
+    "door": [
+      99314.34802789357,
+      358741.18871119886
+    ],
+    "stop": [
+      99315.07133785762,
+      357841.18900185294
+    ],
+    "anchor": [
+      99315.07133785762,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 2F5A8; automatically matched; simulation only"
+  },
+  "2710": {
+    "door": [
+      94671.95033764135,
+      358741.3532173887
+    ],
+    "stop": [
+      94672.6736476056,
+      357841.3535080428
+    ],
+    "anchor": [
+      94672.6736476056,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 2F4F2; automatically matched; simulation only"
+  },
+  "2720": {
+    "door": [
+      93373.70753236231,
+      358740.30984821066
+    ],
+    "stop": [
+      93374.43084232636,
+      357840.31013886473
+    ],
+    "anchor": [
+      93374.43084232636,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 2F4F3; automatically matched; simulation only"
+  },
+  "2730": {
+    "door": [
+      91193.67736976477,
+      358740.30859065824
+    ],
+    "stop": [
+      91194.40067972882,
+      357840.3088813123
+    ],
+    "anchor": [
+      91194.40067972882,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 2F511; automatically matched; simulation only"
+  },
+  "2740": {
+    "door": [
+      88858.67801932966,
+      358740.3021076126
+    ],
+    "stop": [
+      88859.4013292937,
+      357840.3023982667
+    ],
+    "anchor": [
+      88859.4013292937,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 2F5D3; automatically matched; simulation only"
+  },
+  "2750": {
+    "door": [
+      83238.29010256001,
+      358740.939949855
+    ],
+    "stop": [
+      83239.01341252426,
+      357840.9402405091
+    ],
+    "anchor": [
+      83239.01341252426,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 2F534; automatically matched; simulation only"
+  },
+  "2760": {
+    "door": [
+      81940.04802548209,
+      358741.53846801375
+    ],
+    "stop": [
+      81940.77133544613,
+      357841.5387586678
+    ],
+    "anchor": [
+      81940.77133544613,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 2F535; automatically matched; simulation only"
+  },
+  "2770": {
+    "door": [
+      79222.24671486794,
+      358167.5818440493
+    ],
+    "stop": [
+      80122.24642421384,
+      358166.8585340851
+    ],
+    "anchor": [
+      80500.0,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 2F669; automatically matched; simulation only"
+  },
+  "2780 (location 1)": {
+    "door": [
+      79221.92514959232,
+      351079.5251970573
+    ],
+    "stop": [
+      80121.92514959213,
+      351079.52577298146
+    ],
+    "anchor": [
+      80500.0,
+      351079.52577298146
+    ],
+    "source": "DXF DOOR_80 handle 2F755; automatically matched; simulation only"
+  },
+  "2780 (location 2)": {
+    "door": [
+      79207.24671577364,
+      357069.1067204613
+    ],
+    "stop": [
+      80107.24642511953,
+      357069.8300304254
+    ],
+    "anchor": [
+      80500.0,
+      357069.8300304254
+    ],
+    "source": "DXF DOOR_80 handle 2F52F; automatically matched; simulation only"
+  },
+  "2790": {
+    "door": [
+      79223.05611050896,
+      348083.61232469906
+    ],
+    "stop": [
+      80123.05611050877,
+      348083.61290062324
+    ],
+    "anchor": [
+      80500.0,
+      348083.61290062324
+    ],
+    "source": "DXF DOOR_80 handle 2F575; automatically matched; simulation only"
+  },
+  "2810": {
+    "door": [
+      101139.19908608102,
+      339706.64246104786
+    ],
+    "stop": [
+      102039.19879542691,
+      339707.365771012
+    ],
+    "anchor": [
+      102500.0,
+      339707.365771012
+    ],
+    "source": "DXF DOOR_80 handle 2F553; automatically matched; simulation only"
+  },
+  "2820": {
+    "door": [
+      101138.15571690664,
+      341004.88526632974
+    ],
+    "stop": [
+      102038.15542625253,
+      341005.608576294
+    ],
+    "anchor": [
+      102500.0,
+      341005.608576294
+    ],
+    "source": "DXF DOOR_80 handle 2F552; automatically matched; simulation only"
+  },
+  "2830": {
+    "door": [
+      101122.70818283304,
+      344354.88489016565
+    ],
+    "stop": [
+      102022.70789217894,
+      344355.6082001299
+    ],
+    "anchor": [
+      102500.0,
+      344355.6082001299
+    ],
+    "source": "DXF DOOR_80 handle 2F770; automatically matched; simulation only"
+  },
+  "2840": {
+    "door": [
+      101123.97375315643,
+      347703.69911669684
+    ],
+    "stop": [
+      102023.97346250233,
+      347704.42242666107
+    ],
+    "anchor": [
+      102500.0,
+      347704.42242666107
+    ],
+    "source": "DXF DOOR_80 handle 2F773; automatically matched; simulation only"
+  },
+  "2841": {
+    "door": [
+      97320.90396259105,
+      356500.0
+    ],
+    "stop": [
+      97320.90396259105,
+      357400.0
+    ],
+    "anchor": [
+      97320.90396259105,
+      357500.0
+    ],
+    "source": "DXF paired wall opening (0, 356450, 356550, 96821, 97821); automatically matched; simulation only"
+  },
+  "2850": {
+    "door": [
+      94839.37510536914,
+      356440.3167651248
+    ],
+    "stop": [
+      94838.19510926575,
+      357340.315991574
+    ],
+    "anchor": [
+      94838.19510926575,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 2F6EC; automatically matched; simulation only"
+  },
+  "2860": {
+    "door": [
+      92499.7833438071,
+      356441.3656505503
+    ],
+    "stop": [
+      92498.60334770371,
+      357341.3648769995
+    ],
+    "anchor": [
+      92498.60334770371,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 2F4E4; automatically matched; simulation only"
+  },
+  "2870": {
+    "door": [
+      90241.91807904416,
+      356440.5214990623
+    ],
+    "stop": [
+      90242.64138900841,
+      357340.5212084082
+    ],
+    "anchor": [
+      90242.64138900841,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 2F6E9; automatically matched; simulation only"
+  },
+  "2880": {
+    "door": [
+      88943.92481946037,
+      356441.0504844606
+    ],
+    "stop": [
+      88943.20150949612,
+      357341.05019380647
+    ],
+    "anchor": [
+      88943.20150949612,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 2F506; automatically matched; simulation only"
+  },
+  "2890": {
+    "door": [
+      85642.1723310849,
+      356441.56486824015
+    ],
+    "stop": [
+      85641.44902112086,
+      357341.5645775861
+    ],
+    "anchor": [
+      85641.44902112086,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 2F507; automatically matched; simulation only"
+  },
+  "2900": {
+    "door": [
+      84343.92952580587,
+      356440.5214990623
+    ],
+    "stop": [
+      84343.20621584162,
+      357340.5212084082
+    ],
+    "anchor": [
+      84343.20621584162,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 2F508; automatically matched; simulation only"
+  },
+  "2011": {
+    "door": [
+      69600.37405677178,
+      347264.5559344726
+    ],
+    "stop": [
+      69646.49918539837,
+      346365.7386713378
+    ],
+    "anchor": [
+      67000.0,
+      346000.0
+    ],
+    "source": "DXF DOOR_100 handle 45A1; automatically matched; simulation only; shared suite entrance inferred from interior door DXF DOOR_80 handle 4492",
+    "shared_with": "2010",
+    "verification_code": "2010",
+    "internal_door": [
+      71654.43205432984,
+      350733.2922012174
+    ]
+  },
+  "2031": {
+    "door": [
+      60593.65538953019,
+      348776.4629297139
+    ],
+    "stop": [
+      60541.99962986074,
+      347877.9465511804
+    ],
+    "anchor": [
+      60541.99962986074,
+      346000.0
+    ],
+    "source": "DXF DOOR_90 handle 45A7; automatically matched; simulation only; shared suite entrance inferred from interior door DXF DOOR_80 handle 2FABB",
+    "shared_with": "2030",
+    "verification_code": "2030",
+    "internal_door": [
+      58628.938296388485,
+      352502.313514538
+    ]
+  },
+  "2032": {
+    "door": [
+      60593.65538953019,
+      348776.4629297139
+    ],
+    "stop": [
+      60541.99962986074,
+      347877.9465511804
+    ],
+    "anchor": [
+      60541.99962986074,
+      346000.0
+    ],
+    "source": "DXF DOOR_90 handle 45A7; automatically matched; simulation only; shared suite entrance inferred from interior door DXF DOOR_80 handle 44D9",
+    "shared_with": "2030",
+    "verification_code": "2030",
+    "internal_door": [
+      57529.80541083707,
+      352502.313514538
+    ]
+  },
+  "2041": {
+    "door": [
+      48451.285441931104,
+      348762.488731334
+    ],
+    "stop": [
+      48502.94120160056,
+      347863.9723528005
+    ],
+    "anchor": [
+      48502.94120160056,
+      346000.0
+    ],
+    "source": "DXF DOOR_90 handle 47F7; automatically matched; simulation only; shared suite entrance inferred from interior door DXF DOOR_80 handle 4650",
+    "shared_with": "2040",
+    "verification_code": "2040",
+    "internal_door": [
+      50632.34214370275,
+      352452.83015522663
+    ]
+  },
+  "2061": {
+    "door": [
+      39452.086084301845,
+      347351.0075820093
+    ],
+    "stop": [
+      39405.96416956476,
+      346452.1901539512
+    ],
+    "anchor": [
+      42000.0,
+      346000.0
+    ],
+    "source": "DXF DOOR_100 handle 46EC; automatically matched; simulation only; shared suite entrance inferred from interior door DXF DOOR_80 handle 46BA",
+    "shared_with": "2060",
+    "verification_code": "2060",
+    "internal_door": [
+      37394.06318718383,
+      350723.22621710104
+    ]
+  },
+  "2231": {
+    "door": [
+      13684.359073564574,
+      335178.37272555125
+    ],
+    "stop": [
+      13730.439627906384,
+      336077.1922750224
+    ],
+    "anchor": [
+      13730.439627906382,
+      337000.0
+    ],
+    "source": "DXF DOOR_100 handle 4DBC; automatically matched; simulation only; shared suite entrance inferred from interior door DXF DOOR_80 handle 2E7E",
+    "shared_with": "2230",
+    "verification_code": "2230",
+    "internal_door": [
+      13399.70637455559,
+      331711.54031566635
+    ]
+  },
+  "2251": {
+    "door": [
+      29490.41530104711,
+      335178.32259489293
+    ],
+    "stop": [
+      29444.33474670542,
+      336077.14214436413
+    ],
+    "anchor": [
+      29444.33474670542,
+      337000.0
+    ],
+    "source": "DXF DOOR_100 handle 4CA0; automatically matched; simulation only; shared suite entrance inferred from interior door DXF DOOR_80 handle 2E7C",
+    "shared_with": "2250",
+    "verification_code": "2250",
+    "internal_door": [
+      29563.708247719667,
+      331710.568258324
+    ]
+  },
+  "2680": {
+    "door": [
+      102754.83167191398,
+      358740.86931112217
+    ],
+    "stop": [
+      102755.55498187823,
+      357840.8696017763
+    ],
+    "anchor": [
+      102500.0,
+      357500.0
+    ],
+    "source": "DXF DOOR_80 handle 2F4BB; L-shaped room connectivity; plan-specific recovery; simulation only"
+  },
+  "2270": {
+    "door": [
+      19537.858833851657,
+      356617.327347531
+    ],
+    "stop": [
+      19537.858833851657,
+      357517.327347531
+    ],
+    "anchor": [
+      19537.858833851657,
+      357500.0
+    ],
+    "source": "DXF open shared entrance bounded by LINE handles 4818 and 480C; plan-specific inference; external sign unknown",
+    "entrance_type": "shared_open_access",
+    "verification_code": "2270"
+  },
+  "2271": {
+    "door": [
+      19537.858833851657,
+      356617.327347531
+    ],
+    "stop": [
+      19537.858833851657,
+      357517.327347531
+    ],
+    "anchor": [
+      19537.858833851657,
+      357500.0
+    ],
+    "source": "DXF open shared entrance bounded by LINE handles 4818 and 480C; plan-specific inference; external sign unknown",
+    "entrance_type": "shared_open_access",
+    "verification_code": "2271"
+  }
+}
